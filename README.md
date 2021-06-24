@@ -5,7 +5,6 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Learn C and Python
 - ⚡ Fun fact: I'm also a skateboarder 
-<br />
 
 ### Github Stats
 
