@@ -25,6 +25,10 @@
 <img align="left" alt="Bash" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/bash/bash-original.svg"/>
 <img align="left" alt="Javascript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/javascript/javascript-original.svg" />
 
+---
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizguilhermegzg)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [twitter]: https://twitter.com/luizinguui
 [instagram]: https://www.instagram.com/eoluizmiamigo/
