@@ -5,12 +5,13 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Learn C and Python
 - ⚡ Fun fact: I'm also a skateboarder 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizguilhermegzg)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### Connect with me:
 
 [<img align="left" alt="luizguilhermegzg | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="luizguilhermegzg | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizguilhermegzg)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 
