@@ -1,4 +1,4 @@
-### Hi there, I'm Jesse - aka [codeSTACKr][website] �
+### Hi there, I'm  Luiz 
 ## I'm a brazillian high schooler who really enjoy computers
 
 - 🌱 I’m currently learning everything i can
