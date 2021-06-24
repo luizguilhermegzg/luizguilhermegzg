@@ -10,6 +10,7 @@
 
 [<img align="left" alt="luizguilhermegzg | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="luizguilhermegzg | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizguilhermegzg)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 
@@ -24,8 +25,6 @@
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/python/python-original.svg"/>
 <img align="left" alt="Bash" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/bash/bash-original.svg"/>
 <img align="left" alt="Javascript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/javascript/javascript-original.svg" />
-</br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizguilhermegzg)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [twitter]: https://twitter.com/luizinguui
